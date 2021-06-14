@@ -1,4 +1,4 @@
-### Hi there  Andre Colón here, 👋
+### Hi there  Andre Colón here,
 
 Experienced creative with a demonstrated history in working within various industries on branding, web development and marketing. Full stack web developer. 
 
