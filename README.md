@@ -1,6 +1,6 @@
 ### Hi there  Andre Colón here,
 
-Experienced creative with a demonstrated history in working within various industries on branding, web development and marketing. Full stack web developer. 
+Full Stack Web Developer with Experience in Graphic Design, Animation, and Video Post Production. Working within various industries on branding, web development and marketing. 
 
 - I’m currently working on ... Covid cases in the world App using Javascript, Axios, DOM manipulation
 - I’m currently learning ... Mastering JavasSript
