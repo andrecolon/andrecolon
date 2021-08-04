@@ -2,7 +2,7 @@
 
 Experienced creative with a demonstrated history in working within various industries on branding, web development and marketing. Full stack web developer. 
 
-- I’m currently working on ... React Movie Database [React, Redux,Styled Components]
+- I’m currently working on ... Mastering JavasSript
 - I’m currently learning ... Vue.js, Next.js
 - I’m looking to collaborate on ... Vue js, Redux, Next js
 - I’m looking for help with ... Firebase
