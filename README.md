@@ -4,7 +4,7 @@ Full Stack Web Developer exploring new technologies with experience in graphic d
 
 - I’m currently working on ... Covid cases in the world App using Javascript, Axios, DOM manipulation
 - I’m currently mastering ...  JavasSript
-- I’m looking to collaborate on ... ReactJS
+- I’m looking to collaborate on ... Web Solutions for Small Businesses
 - I’m looking for help with ... State Management
 - Ask me about ... Graphic Design
 - How to reach me: ...[email, or FB]
