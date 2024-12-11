@@ -8,4 +8,4 @@ Full Stack Web Developer exploring new technologies with experience in graphic d
 - I’m looking for help with ... State Management
 - Ask me about ... Graphic Design
 - How to reach me: ...[email, or FB]
-- Fun fact: ...  Ancient Eastern history
+
