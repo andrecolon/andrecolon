@@ -4,7 +4,7 @@ Full Stack Web Developer exploring new technologies with experience in graphic d
 
 - I’m currently working on ... Learning Laravel and Vue
 - I’m currently mastering ...  JavasSript
-- I’m looking to collaborate on ... Bible based & Chicldren's learning applications 
+- I’m looking to collaborate on ... Ancient Eastern based & Children learning applications 
 - I’m looking for help with ... State Management
 - Ask me about ... Graphic Design
 - How to reach me: ...[email, or FB]
