@@ -1,4 +1,4 @@
-### Hi there  Andre Colón here,
+### Hi There! Andre Colón here,
 
 Full Stack Web Developer exploring new technologies with experience in graphic design. Working within various industries on web development, branding, and marketing. 
 
